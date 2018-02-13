@@ -41,51 +41,51 @@ In order for this to work, I figured that measuring progress should be done easi
 
 
 	 	BadMe?	GetUpOk	Pray	Pushups Work++	EatFar	LeaveOk	Pray	Workout	Walk	Thesis	GfAvail	SleepOk
-	Sze	O	O	X	O	O	O	O	X	O	O	O	O	O
-	Csü	O	O	O	O	O	O	O	X	O	O	O	O	O
-	Pén	O	X	O	O	O	O	O	X	O	O	X	O	O
-	Szo	O	O	O	X	O	O	O	X	O	O	O	O	O
-	Vas
+	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O
 	
-	Hét
-	Ked
-	Sze
-	Csü
-	Pén
-	Szo
-	Vas
+	Hét	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Ked	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O
 	
-	Hét
-	Ked
-	Sze
-	Csü
-	Pén
-	Szo
-	Vas
+	Hét	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Ked	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O
 	
-	Hét
-	Ked
-	Sze
-	Csü
-	Pén
-	Szo
-	Vas
+	Hét	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Ked	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O
 	
-	Hét
-	Ked
-	Sze
-	Csü
-	Pén
-	Szo
-	Vas
+	Hét	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Ked	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O
 	
-	Hét
-	Ked
-	Sze
-	Csü
-	Pén
-	Szo
-	Vas
+	Hét	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Ked	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O
 	
 	Hét - Easter (Just be happy and celebrate God here whatever happens)
 
