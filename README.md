@@ -39,7 +39,55 @@ In order for this to work, I figured that measuring progress should be done easi
 
 ### Kitartás, Ráadás, Látás - the calendar
 
-TODO
+
+	 	BadMe?	GetUpOk	Pray	Pushups Work++	EatFar	LeaveOk	Pray	Workout	Walk	Thesis	GfAvail	SleepOk
+	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Csü
+	Pén
+	Szo
+	Vas
+	
+	Hét
+	Ked
+	Sze
+	Csü
+	Pén
+	Szo
+	Vas
+	
+	Hét
+	Ked
+	Sze
+	Csü
+	Pén
+	Szo
+	Vas
+	
+	Hét
+	Ked
+	Sze
+	Csü
+	Pén
+	Szo
+	Vas
+	
+	Hét
+	Ked
+	Sze
+	Csü
+	Pén
+	Szo
+	Vas
+	
+	Hét
+	Ked
+	Sze
+	Csü
+	Pén
+	Szo
+	Vas
+	
+	Hét - Easter (Just be happy and celebrate God here whatever happens)
 
 ### Böjt - Values to do, forbidden activities to not do and thresholds
 
