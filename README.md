@@ -41,10 +41,10 @@ In order for this to work, I figured that measuring progress should be done easi
 
 
 	 	BadMe?	GetUpOk	Pray	Pushups Work++	EatFar	LeaveOk	Pray	Workout	Walk	Thesis	GfAvail	SleepOk
-	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Csü
-	Pén
-	Szo
+	Sze	O	O	X	O	O	O	O	X	O	O	O	O	O
+	Csü	O	O	O	O	O	O	O	X	O	O	O	O	O
+	Pén	O	X	O	O	O	O	O	X	O	O	X	O	O
+	Szo	O	O	O	X	O	O	O	X	O	O	O	O	O
 	Vas
 	
 	Hét
