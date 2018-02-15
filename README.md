@@ -41,8 +41,8 @@ In order for this to work, I figured that measuring progress should be done easi
 
 
 	 	BadMe?	GetUpOk	Pray	Pushups Work++	Lunch	LeaveOk	Pray	Workout	Walkrun	Dinner	Thesis	GfAvail	SleepOk	Guitar	Ordr
-	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Sze	O	X	X	X	O	X	X	X	O	O	X	O	X	O	O	O
+	Csü	O	O	X	O	O	O	X	X	O	X	X	O	O	X	O	O
 	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
