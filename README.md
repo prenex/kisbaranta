@@ -50,13 +50,13 @@ In order for this to work, I figured that measuring progress should be done easi
 	Hét	X	O	X	X	O	O	X	O	X	O	O	O	O	O	O	O
 	Ked	O	O	X	O	X	O	X	X	O	O	O	O	X	O	O	O
 	Sze	O	O	X	X	O	O	O	O	O	O	O	O	O	X	O	O
-	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Csü	O	O	O	O	X	X	O	O	O	O	O	O	X	O	O	O
+	Pén	O	O	X	O	O	O	X	X	X	O	O	O	X	X	X	O
+	Szo	X	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Vas	X	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	
-	Hét	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Ked	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Hét	O	O	X	X	O	O	O	X	O	O	O	O	X	X	O	O
+	Ked	O	O	X	X	O	O	X	X	X	O	X	X	O	O	O	O
 	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
