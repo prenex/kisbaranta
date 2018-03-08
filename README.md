@@ -65,8 +65,8 @@ In order for this to work, I figured that measuring progress should be done easi
 	
 	Hét	O	O	X	X	O	O	O	X	X	O	X	X	X	O	O	O
 	Ked	O	O	X	X	O	X	O	X	X	O	O	X	O	X	O	O
-	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Sze	O	O	X	X	X	X	O	X	O	X	O	O	X	O	O	O
+	Csü	O	O	X	O	O	X	O	X	O	O	O	O	O	O	O	O
 	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
