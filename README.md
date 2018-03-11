@@ -68,8 +68,8 @@ In order for this to work, I figured that measuring progress should be done easi
 	Sze	O	O	X	X	X	X	O	X	O	X	O	O	X	O	O	O
 	Csü	O	O	X	O	O	X	O	X	O	O	O	O	O	O	O	O
 	Pén	O	X	X	O	O	O	X	X	O	O	O	X	X	O	O	O
-	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Szo	O	X	O	O	O	O	O	O	O	O	O	O	O	O	X	O
+	Vas	O	X	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	
 	Hét	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	Ked	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
@@ -114,4 +114,9 @@ TODO
 
 ### Cél - Specific personal goal checklist
 
-TODO
+1. **FINISHED:** Getting to know thesis deadlines for my university - going there and asking personally: Finished! Those who started the university after 2006 and before 2012 need to apply a law in which you might need asking special admission for finishing if 7 years have passed - but only if the uniersity faculty is asking for this special procedure. In my case my university is not asking for the special procedure after 7 years, so I can get my diploma basically even as a pensioner (the woman said). Those who started AFTER 2012 need to finish in 5 years to the absolutorium at most (but this does not apply to me) and those who started before 2006 have 14 or more years or something (also don't apply to me). It seems miraculously I went to the university exactly in the period that lets me freely choose. I will continue writing my thesis though so that I can finish as early as I can.
+
+2. **TODO:** Getting to know how I can buy the house and land in the nice place: It was a house that my family owned once and there seems to be a possibility to get it back. It is in a very bad condition so I think of the place as "land" and would build our own house there. It must be a cheap buy for its bad condition but it lies in an awsome place which is good to build our own house on. If I can spend on it reasonable amounts I should even buy it immediately (I do not even need to ask my girlfriend because if the price is good it would be good for Roland and my family to own this anyways - but I plan our house there really much).
+
+3. **TODO:** Asking out Amra to go for the holy place in Transylvania (Erdély): I really wish she comes! It is a lot of good energy and in my mind I feel it would be good for us now. Her father is ill and I feel it would be good to go there, but my heart tend to want together going there with her. We can still visit up to Norway in the summer if she comes to the Transylvanian event!
+
