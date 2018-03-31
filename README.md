@@ -71,20 +71,20 @@ In order for this to work, I figured that measuring progress should be done easi
 	Szo	O	X	O	O	O	O	O	O	O	O	O	O	O	O	X	O
 	Vas	O	X	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	
-	Hét	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Ked	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Hét	O	X	X	O	X	O	O	X	O	O	O	O	X	X	O	O
+	Ked	X	O	X	X	O	X	O	X	O	O	O	O	O	O	O	O
+	Sze	O	O	X	O	O	O	O	O	O	O	O	O	X	O	O	O
+	Csü	O	O	X	O	O	O	O	X	X	O	O	O	O	O	O	O
+	Pén	O	O	X	O	O	O	O	X	O	O	O	O	O	O	O	O
+	Szo	X	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Vas	X	O	O	O	O	O	O	O	O	O	O	O	X	O	O	O
 	
-	Hét	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Ked	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Sze	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Csü	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Pén	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
-	Szo	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
+	Hét	X	O	X	X	O	O	O	X	O	O	O	O	O	O	O
+	Ked	O	O	X	O	O	X	O	X	X	O	O	O	X	O	O	O
+	Sze	O	O	X	X	O	X	O	X	O	O	O	O	O	O	O	O
+	Csü	O	O	X	O	O	O	O	X	O	O	O	O	O	O	O	O
+	Pén	X	O	X	O	O	O	O	X	O	O	O	O	O	O	O	O
+	Szo	O	X	X	O	O	O	O	O	O	O	O	O	O	O	O	O
 	Vas	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O	O
 	
 	Hét - Easter (Just be happy and celebrate God here whatever happens)
@@ -110,13 +110,48 @@ The above should be understood as:
 
 ### Böjt - Values to do, forbidden activities to not do and thresholds
 
-TODO
+1. Try not to play over night or against sleep - actually don't do anything that keeps one up later than it should be (let it be a game, internet or actually even work or the thesis project). It is really harmful to the next day, so this is best avoided.
+
+2. Try to not look at porn. Thank God I managed to only view very small amount. My girlfriend is beautiful anyways - both in body and soul ;-)
+
+3. Try to not eat a lot of candies or sugar - actually towards the end I failed this a bit, but in the beginning it was OK.
+
+4. Try to not overdo answering to politics or flamewar messages (latter mostly on proghu). This one was not originally on my list, but I grew to see that some people or forums does not worth attention.
+
+5. I tried to eat less meat on fridays - or not at all. I was not flawless in this, but it was measurable difference and on bigger fasting days I always kept it on the usual weeks I kept it at least half the time if I have not forgotten
+
+6. Try to be good: Kindness towards people, thinking more from their point of view when possible, going against any illegal stuff... whatever
 
 ### Cél - Specific personal goal checklist
 
 1. **FINISHED:** Getting to know thesis deadlines for my university - going there and asking personally: Finished! Those who started the university after 2006 and before 2012 need to apply a law in which you might need asking special admission for finishing if 7 years have passed - but only if the uniersity faculty is asking for this special procedure. In my case my university is not asking for the special procedure after 7 years, so I can get my diploma basically even as a pensioner (the woman said). Those who started AFTER 2012 need to finish in 5 years to the absolutorium at most (but this does not apply to me) and those who started before 2006 have 14 or more years or something (also don't apply to me). It seems miraculously I went to the university exactly in the period that lets me freely choose. I will continue writing my thesis though so that I can finish as early as I can.
 
-2. **TODO:** Getting to know how I can buy the house and land in the nice place: It was a house that my family owned once and there seems to be a possibility to get it back. It is in a very bad condition so I think of the place as "land" and would build our own house there. It must be a cheap buy for its bad condition but it lies in an awsome place which is good to build our own house on. If I can spend on it reasonable amounts I should even buy it immediately (I do not even need to ask my girlfriend because if the price is good it would be good for Roland and my family to own this anyways - but I plan our house there really much).
+2. **FINISHED - not available:** Getting to know how I can buy the house and land in the nice place: It was a house that my family owned once and there seems to be a possibility to get it back. It is in a very bad condition so I think of the place as "land" and would build our own house there. It must be a cheap buy for its bad condition but it lies in an awsome place which is good to build our own house on. If I can spend on it reasonable amounts I should even buy it immediately (I do not even need to ask my girlfriend because if the price is good it would be good for Roland and my family to own this anyways - but I plan our house there really much). Sadly it turned out that the land and house has been already given. I think the guy gave it to his family friends dauther whom I know and is married to a guy and plan family so at least I will be glad to hear they own it and not someone else ;-)
 
 3. **TODO:** Asking out Amra to go for the holy place in Transylvania (Erdély): I really wish she comes! It is a lot of good energy and in my mind I feel it would be good for us now. Her father is ill and I feel it would be good to go there, but my heart tend to want together going there with her. We can still visit up to Norway in the summer if she comes to the Transylvanian event!
 
+### Edification - things to take home
+
+Originally this point was not here, but I have found that it is good to make a review of the whole period after one makes through it. The biggest surprise to me was coming from the realization of my weakness: I imagined there will be big parts of the weeks where I can get an 'X' in many-many columns all at once and I have ended up with a really bad overall picture.
+
+Other edifications and findings:
+
+0. I am weaker than I ever imagined haha... also I was lazy and not documenting all the things properly in the end. Because of this the end is only an approxmation here :-(
+
+1. Interesting to say, but originally I tried to calculate the length of the activities so that I can do them every day: that is how it became 15 minutes walk or run for example - and walk was actually only there because of rain or snow prohibiting run when not having "home clothes" for it. I should have do it this way I imagined, because I always ended up doing more at a time and less periodically! There was a day when I ran over an hour and well over 5-6 (I don't know) kilometers and when I worked out I used to spend hours too. This would be good maybe but I feel it would be better to just do it every day first.
+
+2. Looking at movies while working out is really a good thing to do. I have watched a lot of Babylon5 and it made the process a lot better.
+
+3. I have found that I should have not included the praying thing - actually I did that anyways when I was able so I had a bad conscience that felt like I am only doing it for this list. That was really bad - however I also didn't know how much it helped to keep up really not forgetting about it as I tried to at least force myself.
+
+4. When there is music on the radio - do not pray prayers in which you sing in your head, but better just say it then or you will feel like a fool and not able to concentrate. I actually find it very interesting that it is so much harder to concentrate when there are two things with a rythm and music in it. I guess it was good to try at least and it helps concentration anyways.
+
+5. From the list above it is clear that I am not sleeping well enough. This should be changed.
+
+6. I have found that the upcoming elections also made it harder for me to not do this properly. Even though I am not a polititian, I have taken part in many online discussions, events and things like that. Some of them are better answered by people like me - but some of them were just wasting my time. Also it can really upset us to see what some people are saying and how bad manipulations are from abroad :-(
+
+7. I have found out that many of the guitars are missing the strings because the music shop in Dorog got closed :-(.
+
+8. There was no day in which I did all the good things at the same time... Today (saturday before easter) there is still chance to fix this, but I am not sure if I am strong-enough for that...
+
+9. Actually I feel I should make an extra week right after this period: it will be good to pray a bit for the elections to go in the way God wants it (not how I want it, just how he wants - and I do not know that, only hope we wish the same). Also it worths the effort to make the extra week when I look at the above table with so few 'X'
